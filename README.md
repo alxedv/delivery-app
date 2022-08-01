@@ -24,7 +24,7 @@ Estes foram os integrantes do grupo responsáveis pelo desenvolvimento deste pro
 
 ## Instalação
 - É necessário ter o node instalado em sua máquina na versão 16 ou superior.
-- É necessário também ter em sua máquina o MySQL
+- É necessário também ter em sua máquina o MySQLWorkbench, rodando na porta 3306
 
 Uma vez que esteja na pasta raiz do projeto execute o comando abaixo para instalar as depêndencias.
 
